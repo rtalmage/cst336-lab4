@@ -1,7 +1,14 @@
 body {
     background-color: #CBE2F6;
+    color: steelblue;
     text-align: center;
+    border-bottom-color: blueviolet;
 }
+
+header {
+    color: darkslateblue;
+}
+
 nav a {
     padding: 15px;
     padding-bottom: 5px;
