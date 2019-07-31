@@ -2,7 +2,7 @@ body {
     background-color: #CBE2F6;
     color: steelblue;
     text-align: center;
-    border-bottom-color: blueviolet;
+    border-bottom: blueviolet;
 }
 
 header {
