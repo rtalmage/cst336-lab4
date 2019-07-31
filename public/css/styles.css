@@ -3,6 +3,15 @@ body {
     text-align: center;
 }
 nav a {
+    padding: 15px;
+    padding-bottom: 5px;
     text-align: center;
-    color: white;
+    font-size: 1.75em;
+    color: steelblue;
+}
+
+nav a:hover { /* psuedo class */
+    border-bottom: 2px darkslateblue solid;
+    font-size: 2em;
+    transition: .75s; /*transition effect*/
 }
