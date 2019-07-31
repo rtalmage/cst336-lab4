@@ -1,4 +1,6 @@
 body {
+    display: flex;
+    justify-content: center;
     background-color: #CBE2F6;
     color: midnightblue;
     text-align: center;
